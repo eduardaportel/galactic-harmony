@@ -16,7 +16,8 @@ To practice, I explored a real-world dataset about galaxies and visualized patte
 
 ## 📂 Files
 - `dashboards-tableau.twb` — Tableau workbook file
-- `document.pdf` — Summary of questions and insights
+- `document-pt.pdf` — Project summary (PT-BR)
+- `document-en.pdf` — Project summary (EN-US)
 - `Buzzard_DC1.csv` — Data sample
 
 ## 🎯 Goal
